@@ -1,7 +1,7 @@
 # AngularApp1
-updated it for fun
+this is me generating updated for first time
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
-
+updated for fun
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
